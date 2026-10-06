@@ -1,0 +1,5 @@
+Form 1040 U.S. Individual Income Tax Return
+Taxpayer name: Morgan Example
+SSN: 123-45-6789
+Total income: $84,250.00
+Tax year: 2025

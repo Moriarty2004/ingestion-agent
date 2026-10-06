@@ -1,0 +1,4 @@
+Property Appraisal Report
+Applicant name: Morgan Example
+Property value: $410,000
+Document date: 07/22/2025

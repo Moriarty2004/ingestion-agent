@@ -1,0 +1,7 @@
+Pay Statement
+Employee name: Morgan Example
+Employer: Northstar Design LLC
+SSN: 123-45-6789
+Gross pay: $7,020.83
+YTD gross: $56,166.64
+Pay date: 08/15/2025

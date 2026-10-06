@@ -1,0 +1,4 @@
+Asset Statement
+Applicant name: Morgan Example
+Asset value: $42,500.00
+Statement date: 08/31/2025

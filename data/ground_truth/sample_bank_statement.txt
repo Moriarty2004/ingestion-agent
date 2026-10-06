@@ -1,0 +1,4 @@
+Checking Account Statement
+Account balance: $18,450.22
+Statement date: 08/31/2025
+Applicant name: Morgan Example

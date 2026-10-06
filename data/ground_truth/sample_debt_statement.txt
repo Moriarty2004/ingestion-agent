@@ -1,0 +1,4 @@
+Debt Statement
+Applicant name: Morgan Example
+Monthly payment due: $425.00
+Account last four: 3210

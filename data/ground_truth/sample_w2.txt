@@ -1,0 +1,7 @@
+Wage and Tax Statement - Form W-2
+Applicant name: Morgan Example
+Employer: Northstar Design LLC
+SSN: 123-45-6789
+Wages: $84,250.00
+Tax year: 2025
+Document date: 12/31/2025
